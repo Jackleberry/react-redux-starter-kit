@@ -1,7 +1,7 @@
 {
-  "name": "Noob-board",
+  "name": "Starter-kit",
   "version": "1.0.0",
-  "description": "Noob board take 2",
+  "description": "React/Redux starter kit",
   "scripts": {
     "prestart": "babel-node tools/startMessage.js",
     "start": "npm-run-all --parallel open:src lint:watch test:watch",
@@ -68,6 +68,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coryhouse/pluralsight-redux-starter"
+    "url": "https://github.com/jackleberry/react-redux-starter-kit"
   }
 }
